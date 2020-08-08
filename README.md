@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad Anang - [Apollo16 Team][website] 👋
 
-## I'm a Web Developer and Teacher!
+## I'm a Web Developer!
 - 🔭 I’m currently stay in Jakarta, Indonesia!
 - 🌱 I’m currently learning everything 🤣
 - ⭐ I’m planning to help my friends by build an course
