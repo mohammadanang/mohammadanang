@@ -14,7 +14,7 @@
 [<img align="left" alt="Mohammad Anang | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mohammad Anang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mohammad Anang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Mohammad Anang's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mohammadanang)
+[<img align="left" alt="Mohammad Anang's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 <br />
@@ -73,6 +73,7 @@
 [youtube]: https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ
 [instagram]: https://instagram.com/anangm182
 [linkedin]: https://www.linkedin.com/in/anangm182/
+[dev]: https://dev.to/mohammadanang/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
