@@ -65,7 +65,7 @@
 
 ---
 
-<img align="left" alt="Mohammad Anang's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadanang&show_icons=true&hide_border=true" />
+<img align="left" alt="Mohammad Anang's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadanang&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://home.apollo16team.com/
 [blog]: http://apollo16team.com/
