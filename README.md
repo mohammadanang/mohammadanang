@@ -1,10 +1,10 @@
 ### Hi there, I'm Mohammad Anang - [Apollo16 Team][website] 👋
 
-## I'm a Web Developer!
+## I'm a Software Developer!
 - 🔭 I’m currently stay in Jakarta, Indonesia!
 - 🌱 I’m currently learning everything 🤣
-- ⭐ I’m planning to help my friends by build an course
-- 🥅 2020 Goals: Create an online course & contribute to Open Source projects
+- ⭐ I’m planning to help my friends by build an products
+- 🥅 2021 Goals: Create an online products & contribute to Open Source projects
 - ⚡ Fun fact: I love play guitar and music lover
 - 🎵 Remember to eat, sleep, and blink!
 
