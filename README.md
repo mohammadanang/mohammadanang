@@ -1,25 +1,25 @@
-### Hi there, I'm Mohammad Anang - [Apollo16 Team][website] 👋
+### Hi there, I'm Mohammad Anang 👋
 
 ## I'm a Software Developer!
 - 🔭 I’m currently stay in Jakarta, Indonesia!
 - 🌱 I’m currently learning everything 🤣
 - ⭐ I’m planning to help my friends by build an products
-- 🥅 2021 Goals: Create an online products & contribute to Open Source projects
+- 🥅 2021 Goals: Create an online products & contribute to Open Sources
 - ⚡ Fun fact: I love play guitar and music lover
 - 🎵 Remember to eat, sleep, and blink!
 
 ### Connect with me:
 
-[<img align="left" alt="Apollo16 Team" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mohammad Anang | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mohammad Anang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mohammad Anang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mohammad Anang's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" style="color: #fff;" alt="Apollo16 Team" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" style="color: #fff;" alt="Mohammad Anang | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" style="color: #fff;" alt="Mohammad Anang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="color: #fff;" alt="Mohammad Anang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="color: #fff;" alt="Mohammad Anang's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+[<img align="left" style="color: #fff;" alt="Mohammad Anang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
@@ -37,9 +37,9 @@
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
-
-<br />
-<br />
+ -->
+<!-- <br />
+<br /> -->
 
 <!-- --- -->
 
@@ -69,12 +69,8 @@
 
 [website]: https://home.apollo16team.com/
 [blog]: http://apollo16team.com/
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
+[twitter]: https://twitter.com/anangm182
 [youtube]: https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ
 [instagram]: https://instagram.com/anangm182
 [linkedin]: https://www.linkedin.com/in/anangm182/
 [dev]: https://dev.to/mohammadanang/
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
