@@ -63,8 +63,6 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
 <!-- <img align="left" alt="Mohammad Anang's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadanang&show_icons=true&hide_border=true&count_private=true" /> -->
 
 [website]: https://home.apollo16team.com/
