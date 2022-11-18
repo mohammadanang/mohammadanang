@@ -1,4 +1,4 @@
-[![@anangm182's Holopin board](https://holopin.io/api/user/board?user=anangm182)](https://holopin.io/@anangm182)
+[![@anangm182's Holopin board](https://holopin.me/anangm182)](https://holopin.io/@anangm182)
 
 ### To Whom It May Concern
 
